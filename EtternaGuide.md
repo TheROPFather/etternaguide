@@ -27,7 +27,7 @@ Once you've downloaded Etterna follow the usual steps for installing the softwar
 
 ![Etterna Folder Structure](http://i.imgur.com/ICRIoyH.png)
 
-The most important folders too us are
+The most important folders to us are
 
 > - Songs
 > - NoteSkins
@@ -78,7 +78,7 @@ Thanks to Etterna having sane default settings at this point you can start playi
 
 #### Etterna Options Explained
 
-When you hit enter to choose a song if you quickly hit the enter key again you will be taken to the options menu, this is where you can customize your gameplay experience I will give a brief description of the most important options. 
+When you hit enter to choose a song if you quickly hit the enter key again you will be taken to the options menu, this is where you can customize your gameplay experience. I will give a brief description of the most important options. 
 
 ![Options](http://i.imgur.com/cb0V7ja.png)
 
